@@ -1,5 +1,5 @@
 {
-  "name": "voov/billingo-api-connector",
+  "name": "hocza/billingo-api-connector-laravel8",
   "description": "Billingo API Connector",
   "minimum-stability": "dev",
   "license": "MIT",
