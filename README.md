@@ -8,7 +8,7 @@ The full API documentation is available [here](http://billingo.readthedocs.org/e
 The easiest way to install the Connector is using Composer:
 
 ```
-composer require voov/billingo-api-connector
+composer require hocza/billingo-api-connector-laravel8
 ```
 
 Then use your framework's autoload, or simply add:
