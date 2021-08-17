@@ -1,4 +1,4 @@
-# Billingo API Connector
+# Billingo API Connector for Laravel 8
 
 This package is the PHP connector for the Billingo API 2.0.
 The full API documentation is available [here](http://billingo.readthedocs.org/en/latest/).
